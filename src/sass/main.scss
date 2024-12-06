@@ -1,6 +1,6 @@
 @charset "UTF-8";
-@import "settings/vars";
-@import "generic/normalize";
-@import "generic/sr-only";
-@import "generic/browserupgrade";
-@import "components/app";
+@use "settings/vars";
+@use "generic/normalize";
+@use "generic/sr-only";
+@use "generic/browserupgrade";
+@use "components/app";
